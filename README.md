@@ -3,9 +3,7 @@
 Showcasing list of Galaxys name with image and Navigating to Galaxy detail view from Home view explore the selected Galaxy in detailed.
 
 ### Screenshots:
-<img src="https://pscode.lioncloud.net/sowsugum/galaxy/-/raw/e8bb910948d96abff352a7c5c13efa46ae043e6f/Simulator%20Screenshot-iPhone-2025-01-27%20at%2023.47.10.png" width="300" />
-
-<img src="https://pscode.lioncloud.net/sowsugum/galaxy/-/raw/e8bb910948d96abff352a7c5c13efa46ae043e6f/Simulator%20Screenshot-iPhone-2025-01-27%20at%2023.47.20.png" width="300" />
+<img src="https://github.com/sowsugum/Galaxy/blob/main/Simulator%20Screenshot-iPhone-2025-01-27%20at%2023.47.10.png?raw=true" width="400" align="middle" /> <img src="https://github.com/sowsugum/Galaxy/blob/main/Simulator%20Screenshot-iPhone-2025-01-27%20at%2023.47.20.png?raw=true" width="400" align="middle" />
 
 ### Dependencies
 - Xcode Version 16.2
