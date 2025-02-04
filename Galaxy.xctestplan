@@ -1,0 +1,46 @@
+{
+  "configurations" : [
+    {
+      "id" : "5EE28D7E-316B-499B-8FDB-46F9130DF822",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:Galaxy.xcodeproj",
+          "identifier" : "AAACB0F62D3A1D7B00B6B9C9",
+          "name" : "Galaxy"
+        }
+      ]
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Galaxy.xcodeproj",
+      "identifier" : "AAACB0F62D3A1D7B00B6B9C9",
+      "name" : "Galaxy"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Galaxy.xcodeproj",
+        "identifier" : "AAACB1072D3A1D7C00B6B9C9",
+        "name" : "GalaxyTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Galaxy.xcodeproj",
+        "identifier" : "AAACB1112D3A1D7C00B6B9C9",
+        "name" : "GalaxyUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
