@@ -20,8 +20,7 @@ Showcasing list of Galaxys name with image and Navigating to Galaxy detail view 
 
 ### Code coverage
 - Application test coverage 92.6 and above.
-
-<img src="https://pscode.lioncloud.net/sowsugum/galaxy/-/raw/dev/CodeCoverage.png" width="600" />
+<img src="https://github.com/sowsugum/Galaxy/blob/main/CodeCoverage.png" width="400" />
 
 ### Test case
 - Snapshot test cases are covered for iPhone 11, iOS 18.
